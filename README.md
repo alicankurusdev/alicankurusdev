@@ -1,9 +1,53 @@
-# Hello there!!! It is really nice to see you!!!!! :sunglasses:
-- :wave: This is ALICAN KURUS.
-- :eyes: I’m interested in Web Development
-- :seedling: I’ve been learning HTML, CSS, Bootstrap, SCSS, JavaScript, REACT, .NET,
-- :speech_balloon: Ask me anything about Tech World.
-- :mailbox: You can reach me in here[LinkedIn](https://www.linkedin.com/in/alicankurus/)
-## Languages & Tools  :hammer_and_wrench:
-<p align="left"><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   </p>
-<img src="https://github-readme-stats.vercel.app/api?username=alicankurusdev&theme=codeSTACKr&show_icons=true" >
+# Hi, I'm Alican Kuruş 👋
+
+**Full-Stack Developer | React · Node.js · Express.js · MongoDB**
+
+I'm a full-stack developer based in the Trier region of Germany. I build responsive web applications, REST APIs, and backend systems with a focus on practical solutions and maintainable code.
+
+My background in systems engineering, operations, and team leadership influences how I approach software development: understanding requirements, solving problems, and delivering useful products.
+
+- 🔭 **Currently building:** [Diktirgit](https://www.diktirgit.com/) — a customizable home-textile e-commerce platform (live MVP, under active development).
+- 💻 **Main stack:** JavaScript, React, Node.js, Express.js, MongoDB, Mongoose, REST APIs, and Tailwind CSS.
+- 🌱 **Additional technologies:** Next.js, TypeScript, PostgreSQL, Docker fundamentals, and Angular.
+- 🌍 **Languages:** Turkish (native), English (C1), German (B2).
+- 🤝 **Open to:** Junior / entry-level full-stack, frontend, and backend developer roles in Germany, Luxembourg, and remotely.
+
+## Tech stack
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, JavaScript, HTML, CSS, Tailwind CSS |
+| Backend | Node.js, Express.js, REST APIs |
+| Databases | MongoDB, Mongoose, PostgreSQL |
+| Tools | Git, GitHub, Docker fundamentals |
+| Additional experience | Angular, Next.js, TypeScript |
+
+## Selected projects
+
+### 🛍️ [Diktirgit — Custom Home-Textile E-Commerce](https://www.diktirgit.com/)
+An independently developed e-commerce application featuring configurable products, product variants, and measurement-based pricing, built with React, Node.js, Express.js, MongoDB, and Tailwind CSS.
+
+**Status:** Live MVP; the product catalog and payment functionality are still in development. The source repository is private.
+
+### 📦 [Stock Management App](https://github.com/alicankurusdev/FS-StockApp)
+A full-stack stock management project with client and API code, including authentication and workflows for products, purchases, and sales.
+
+### 👥 [Personnel API](https://github.com/alicankurusdev/personnelApi)
+A backend project for managing personnel and departments, with organized routes, controllers, and middleware.
+
+### 🍳 [Cookkit](https://github.com/alicankurusdev/cookkit)
+A web application project with separate client and server codebases.
+
+## Background
+
+- **Systems Engineering** — Turkish Military Academy
+- **Full Stack Web Development with IT Fundamentals** — Clarusway (2021–2022)
+- **Node.js Backend Development Training** — Clarusway (2025)
+- **Software development internship** — Angular and Node.js experience
+
+## Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/alicankurus/)
+- 🌐 [Diktirgit live project](https://www.diktirgit.com/)
+
+Thanks for visiting!
